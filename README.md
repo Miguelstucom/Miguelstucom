@@ -1,14 +1,15 @@
-# Hello, I'm Miguel Ángel 👋
-
-I am a **Mobile App Developer** with 2 years of experience building cross-platform solutions. I love crafting efficient, user-friendly apps and continuously learning new technologies to improve my skills.
+<h1 align="center">Hi, I'm Miguel Ángel 👋</h1>
 
 ---
 
 ### About Me
+I am a **Mobile App Developer** with 2 years of experience building cross-platform solutions.  
+I have completed a **Multiplatform Application Development degree** and I’m currently pursuing a **Master’s in AI and Big Data**.  
+I love crafting efficient, user-friendly apps and continuously learning new technologies to improve my skills.
 
-- **2+ years** of experience creating mobile applications.  
-- Passionate about **clean code**, **best practices**, and **scalable** solutions.  
-- Constantly exploring new tools and frameworks to stay updated.  
+- **2+ years** of experience creating mobile applications  
+- Passionate about **clean code**, **best practices**, and **scalable** solutions  
+- Constantly exploring new tools and frameworks to stay updated  
 
 ---
 
@@ -46,7 +47,6 @@ I am a **Mobile App Developer** with 2 years of experience building cross-platfo
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)](https://www.mongodb.com/)
 
 ---
-
 
 ## 📊 GitHub Stats
 
