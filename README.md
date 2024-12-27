@@ -4,6 +4,14 @@ I am a **Mobile App Developer** with 2 years of experience building cross-platfo
 
 ---
 
+### About Me
+
+- **2+ years** of experience creating mobile applications.  
+- Passionate about **clean code**, **best practices**, and **scalable** solutions.  
+- Constantly exploring new tools and frameworks to stay updated.  
+
+---
+
 ## Languages
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -39,13 +47,6 @@ I am a **Mobile App Developer** with 2 years of experience building cross-platfo
 
 ---
 
-### About Me
-
-- **2+ years** of experience creating mobile applications.  
-- Passionate about **clean code**, **best practices**, and **scalable** solutions.  
-- Constantly exploring new tools and frameworks to stay updated.  
-
----
 
 ## 📊 GitHub Stats
 
@@ -58,6 +59,6 @@ I am a **Mobile App Developer** with 2 years of experience building cross-platfo
 ### Contact
 
 - **Email**: [miguel.stucom@gmail.com](mailto:miguel.stucom@gmail.com)  
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/miguel)
+- **LinkedIn**: [My Profile](https://www.linkedin.com/in/miguel-%C3%A1ngel-v%C3%A1zquez-7b6260185/)
 
 Thank you for stopping by! Feel free to explore my repos and reach out if you'd like to collaborate.
