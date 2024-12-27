@@ -35,6 +35,7 @@ I am a **Mobile App Developer** with 2 years of experience building cross-platfo
 ## Databases
 
 [![SQL Badge](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)](https://www.mongodb.com/)
 
 ---
 
@@ -46,9 +47,19 @@ I am a **Mobile App Developer** with 2 years of experience building cross-platfo
 
 ---
 
+## 📊 GitHub Stats
+
+[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Miguelstucom&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelstucom&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Miguelstucom&theme=dracula)](https://git.io/streak-stats)
+
+---
+
 ### Contact
 
-- **Email**: [youremail@example.com](mailto:miguel.stucom@gmail.com)  
+- **Email**: [miguel.stucom@gmail.com](mailto:miguel.stucom@gmail.com)  
 - **LinkedIn**: [Your Profile](https://www.linkedin.com/miguel)
 
 Thank you for stopping by! Feel free to explore my repos and reach out if you'd like to collaborate.
