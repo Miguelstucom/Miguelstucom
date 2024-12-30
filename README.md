@@ -21,7 +21,6 @@ I love crafting efficient, user-friendly apps and continuously learning new tech
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat-square)](https://www.python.org/)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat-square)](https://www.java.com/)
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat-square)](https://www.php.net/)
-[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=fff&style=flat-square)](https://kotlinlang.org/)
 
 ---
 
@@ -30,6 +29,7 @@ I love crafting efficient, user-friendly apps and continuously learning new tech
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)](https://www.djangoproject.com/)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)](https://flutter.dev/)
 [![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)](https://spring.io/)
+[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=fff&style=flat-square)](https://kotlinlang.org/)
 
 ---
 
