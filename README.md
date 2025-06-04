@@ -8,17 +8,17 @@ My background also includes backend development, giving me a strong understandin
 
 I hold a degree in Multiplatform Application Development and am currently pursuing a Master’s in Artificial Intelligence and Big Data. I’m passionate about building clean, maintainable code and creating intuitive, user-centered apps.
 
-2+ years of professional experience in mobile development
+- 2+ years of professional experience in mobile development
 
-Experienced Flutter tech lead and architecture manager
+- Experienced Flutter tech lead and architecture manager
 
-Hands-on with QA, CI/CD pipelines, and production rollouts
+- Hands-on with QA, CI/CD pipelines, and production rollouts
 
-Solid foundation in backend development and API integration
+- Solid foundation in backend development and API integration
 
-Committed to writing clean code, following best practices, and delivering scalable solutions
+- Committed to writing clean code, following best practices, and delivering scalable solutions
 
-Always exploring new tools and technologies to stay ahead in the field
+- Always exploring new tools and technologies to stay ahead in the field
 
 ---
 
