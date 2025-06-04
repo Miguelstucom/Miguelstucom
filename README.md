@@ -2,14 +2,23 @@
 
 ---
 
-### About Me
-I am a **Mobile App Developer** with 2 years of experience building cross-platform solutions.  
-I have completed a **Multiplatform Application Development degree** and I’m currently pursuing a **Master’s in AI and Big Data**.  
-I love crafting efficient, user-friendly apps and continuously learning new technologies to improve my skills.
+I'm a Mobile App Developer with over 2 years of experience building cross-platform applications.  I currently lead a development team, manage the software architecture, oversee quality assurance, and handle production deployments, ensuring smooth and scalable releases.
 
-- **2+ years** of experience creating mobile applications  
-- Passionate about **clean code**, **best practices**, and **scalable** solutions  
-- Constantly exploring new tools and frameworks to stay updated  
+My background also includes backend development, giving me a strong understanding of full-stack systems and how to build robust, end-to-end solutions.
+
+I hold a degree in Multiplatform Application Development and am currently pursuing a Master’s in Artificial Intelligence and Big Data. I’m passionate about building clean, maintainable code and creating intuitive, user-centered apps.
+
+2+ years of professional experience in mobile development
+
+Experienced Flutter tech lead and architecture manager
+
+Hands-on with QA, CI/CD pipelines, and production rollouts
+
+Solid foundation in backend development and API integration
+
+Committed to writing clean code, following best practices, and delivering scalable solutions
+
+Always exploring new tools and technologies to stay ahead in the field
 
 ---
 
@@ -17,6 +26,7 @@ I love crafting efficient, user-friendly apps and continuously learning new tech
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)](https://dart.dev/)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat-square)](https://www.python.org/)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat-square)](https://www.java.com/)
@@ -30,6 +40,9 @@ I love crafting efficient, user-friendly apps and continuously learning new tech
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)](https://flutter.dev/)
 [![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)](https://spring.io/)
 [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=fff&style=flat-square)](https://kotlinlang.org/)
+[![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)](https://fastapi.tiangolo.com/)
+[![Express Badge](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)](https://expressjs.com/)
+[![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)](https://nestjs.com/)
 
 ---
 
